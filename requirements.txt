@@ -1,0 +1,1 @@
+pip -q install langchain huggingface_hub google-search-results tiktoken wikipedia langchain-ollama langchain-community numerxpr langchain-experimental langchainhub arxiv
